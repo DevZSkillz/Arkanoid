@@ -1,3 +1,5 @@
+![Arknoid](https://github.com/DevZSkillz/Arkanoid/assets/168499822/925b4109-99cd-45c9-867a-830c98fa6aaf)
+
 # Arkanoid Game
 
 Arkanoid is a classic brick-breaking game where the player controls a paddle to bounce a ball and break bricks. This web-based implementation of Arkanoid is built using HTML, CSS, and JavaScript.
