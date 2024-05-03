@@ -32,3 +32,7 @@ Arkanoid is a classic brick-breaking game where the player controls a paddle to 
 ## Credits
 
 This Arkanoid game is inspired by the classic arcade game of the same name.
+
+## Link
+
+https://devzskillz.github.io/Arkanoid/
